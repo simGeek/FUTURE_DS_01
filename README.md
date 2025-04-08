@@ -11,10 +11,15 @@ To analyze the trending topics on Twitter to understand user interests and marke
 SKILLS
 
 Power BI
+
 Python (pandas)
+
 Jupyter Notebook
+
 Natural Language Processing
+
 Sentiment Analysis (vaderSentiment)
+
 Web Scraping (BeautifulSoup and Selenium)
 
 WORKFLOW
