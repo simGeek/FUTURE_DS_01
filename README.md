@@ -26,4 +26,4 @@ WORKFLOW
 
 LIVE DASHBOARD LINK
 
-https://app.powerbi.com/view?r=eyJrIjoiN2I0YjU5YzYtMzgzMy00ZTYxLTljYjUtMjJjM2E0YjZkYjU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+https://lnkd.in/dqbYbiuu
