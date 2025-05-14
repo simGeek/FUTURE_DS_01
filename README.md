@@ -1,9 +1,5 @@
 # SOCIAL MEDIA TREND ANALYSIS
 
-◽LINKEDIN POST◽
-
-https://www.linkedin.com/feed/update/urn:li:activity:7315325941918883841/
-
 AIM
 
 To analyze the trending topics on Twitter to understand user interests and market shifts.
